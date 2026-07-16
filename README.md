@@ -17,7 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 
----
-[![](https://komarev.com/ghpvc/?username=Kimmax009&icon=0&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
